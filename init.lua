@@ -1,0 +1,5 @@
+require("config.lazy")
+require("config.material")
+require("config.my-customized")
+require("config.neo-tree")
+require("config.nvim-lspconfig")
